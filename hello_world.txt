@@ -1,0 +1,12 @@
+adding some text
+adding some text on github
+<<<<<<< HEAD
+<!-- add some css --!dffasd
+
+C
+askfnkdfKDSNFKDKF
+
+now it looks good
+=======
+<!-- add some css --!>
+>>>>>>> faa7ee17da8df1bd05a635f8e49fa510a0f97423
